@@ -1,0 +1,41 @@
+{
+  "list": "articulation-prompts",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix H articulation training",
+  "rows": [
+    {
+      "seedKey": "prompt-01",
+      "kind": "WhyXOverY",
+      "text": "Queue vs direct call",
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "seedKey": "prompt-02",
+      "kind": "WhyXOverY",
+      "text": "Dapper vs EF Core",
+      "sortOrder": 20,
+      "isActive": true
+    },
+    {
+      "seedKey": "prompt-03",
+      "kind": "WhyXOverY",
+      "text": "pgvector vs keyword search",
+      "sortOrder": 30,
+      "isActive": true
+    },
+    {
+      "seedKey": "prompt-04",
+      "kind": "Explanation90",
+      "text": "Give this DDIA chapter or ADR a 90-second explanation; review for filler words and missing trade-offs.",
+      "sortOrder": 40,
+      "isActive": true
+    },
+    {
+      "seedKey": "prompt-05",
+      "kind": "Other",
+      "text": "Think aloud on a DSA problem: restate, examples, brute force, optimize, complexity.",
+      "sortOrder": 50,
+      "isActive": true
+    }
+  ]
+}

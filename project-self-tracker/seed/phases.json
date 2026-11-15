@@ -1,0 +1,50 @@
+{
+  "list": "phases",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix A",
+  "rows": [
+    {
+      "seedKey": "phase-1",
+      "number": 1,
+      "name": "Core Gate",
+      "dayFrom": 1,
+      "dayTo": 90,
+      "weekFrom": 1,
+      "weekTo": 13,
+      "objective": "Build habits, DSA, DDIA, functional React, MEAI/MAF basics.",
+      "exitEvidence": "65-80 meaningful attempts/reviews, edition-correct DDIA notes, small React app, minimal AI exercise, design doc + ADRs."
+    },
+    {
+      "seedKey": "phase-2",
+      "number": 2,
+      "name": "Flagship Build",
+      "dayFrom": 91,
+      "dayTo": 220,
+      "weekFrom": 14,
+      "weekTo": 31,
+      "objective": "Build and measure a lean .NET modular monolith plus bounded applied GenAI.",
+      "exitEvidence": "Working vertical slices, tests, one worker, baseline evals, demo and architecture defence."
+    },
+    {
+      "seedKey": "phase-3",
+      "number": 3,
+      "name": "Scale & Polish",
+      "dayFrom": 221,
+      "dayTo": 300,
+      "weekFrom": 32,
+      "weekTo": 43,
+      "objective": "Measure, deploy, observe, test and communicate the system.",
+      "exitEvidence": "Load report, CI/eval gate, case study and recorded mock reviews."
+    },
+    {
+      "seedKey": "phase-4",
+      "number": 4,
+      "name": "Interview Sprint",
+      "dayFrom": 301,
+      "dayTo": 365,
+      "weekFrom": 44,
+      "weekTo": 52,
+      "objective": "Convert readiness into suitable applications and interviews.",
+      "exitEvidence": "Resume, referrals, mock feedback, funnel metrics and negotiation readiness."
+    }
+  ]
+}

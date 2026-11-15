@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SelfTracker.Api/SelfTracker.Api.csproj" />
+    <Project Path="src/SelfTracker.Application/SelfTracker.Application.csproj" />
+    <Project Path="src/SelfTracker.Domain/SelfTracker.Domain.csproj" />
+    <Project Path="src/SelfTracker.Infrastructure/SelfTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SelfTracker.Api.Tests/SelfTracker.Api.Tests.csproj" />
+    <Project Path="tests/SelfTracker.Domain.Tests/SelfTracker.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

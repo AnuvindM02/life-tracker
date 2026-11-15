@@ -1,0 +1,150 @@
+{
+  "list": "ddia-chapters-1e",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix D.2 (week map from spec v1.1)",
+  "rows": [
+    {
+      "seedKey": "ddia1e-ch01",
+      "edition": "First",
+      "number": 1,
+      "title": "Reliable, Scalable, and Maintainable Applications",
+      "plannedWeekFrom": 1,
+      "plannedWeekTo": 2,
+      "topics": "Operational vs analytical systems; single-node vs distributed design. Latency percentiles, reliability, scalability, maintainability, operability.",
+      "askOpsConnection": "Choose a simple modular monolith before distributed services; explain operational vs analytical needs. Define load, latency, reliability, maintainability and operational limits for Ask-Ops.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch02",
+      "edition": "First",
+      "number": 2,
+      "title": "Data Models and Query Languages",
+      "plannedWeekFrom": 3,
+      "plannedWeekTo": 3,
+      "topics": "Relational/document models, graphs, normalization, CQRS/event sourcing concepts.",
+      "askOpsConnection": "Domain entities, relational modeling, indexes, data access patterns and event/CQRS concepts.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch03",
+      "edition": "First",
+      "number": 3,
+      "title": "Storage and Retrieval",
+      "plannedWeekFrom": 4,
+      "plannedWeekTo": 4,
+      "topics": "B-trees, LSM-trees, indexes, OLTP/analytics, vector embeddings.",
+      "askOpsConnection": "Storage engines, indexes, full-text/vector retrieval; justify only what the project uses.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch04",
+      "edition": "First",
+      "number": 4,
+      "title": "Encoding and Evolution",
+      "plannedWeekFrom": 5,
+      "plannedWeekTo": 5,
+      "topics": "JSON/Avro/Protobuf, schemas, compatible dataflows.",
+      "askOpsConnection": "Version API contracts or event schemas without breaking consumers.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch05",
+      "edition": "First",
+      "number": 5,
+      "title": "Replication",
+      "plannedWeekFrom": 6,
+      "plannedWeekTo": 6,
+      "topics": "Leaders/followers, lag, failover, multi-leader trade-offs.",
+      "askOpsConnection": "Understand replication lag and stale reads; discuss before implementing replicas.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch06",
+      "edition": "First",
+      "number": 6,
+      "title": "Partitioning",
+      "plannedWeekFrom": 7,
+      "plannedWeekTo": 7,
+      "topics": "Partition keys, skew, rebalancing, routing.",
+      "askOpsConnection": "Explain partition-key choice and skew conceptually; do not shard this personal-scale project.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch07",
+      "edition": "First",
+      "number": 7,
+      "title": "Transactions",
+      "plannedWeekFrom": 8,
+      "plannedWeekTo": 8,
+      "topics": "Isolation anomalies, serializability, write skew, distributed transactions.",
+      "askOpsConnection": "Protect inventory/order invariants, isolation and idempotent writes.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch08",
+      "edition": "First",
+      "number": 8,
+      "title": "The Trouble with Distributed Systems",
+      "plannedWeekFrom": 9,
+      "plannedWeekTo": 9,
+      "topics": "Partial failures, unreliable networks/clocks, timeouts, leases.",
+      "askOpsConnection": "Timeouts, partial failures, clocks, retries and leases.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch09",
+      "edition": "First",
+      "number": 9,
+      "title": "Consistency and Consensus",
+      "plannedWeekFrom": 10,
+      "plannedWeekTo": 10,
+      "topics": "Linearizability, logical clocks, consensus.",
+      "askOpsConnection": "Know where strong consistency matters and why consensus is hard; do not implement consensus.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch10",
+      "edition": "First",
+      "number": 10,
+      "title": "Batch Processing",
+      "plannedWeekFrom": 11,
+      "plannedWeekTo": 11,
+      "topics": "Batch processing.",
+      "askOpsConnection": "Document ingestion, imports and offline processing.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch11",
+      "edition": "First",
+      "number": 11,
+      "title": "Stream Processing",
+      "plannedWeekFrom": 12,
+      "plannedWeekTo": 12,
+      "topics": "Stream processing. A philosophy of streaming systems.",
+      "askOpsConnection": "Only add stream/broker patterns if there is a concrete event flow; compare batch and streaming.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    },
+    {
+      "seedKey": "ddia1e-ch12",
+      "edition": "First",
+      "number": 12,
+      "title": "The Future of Data Systems",
+      "plannedWeekFrom": 13,
+      "plannedWeekTo": 13,
+      "topics": "Includes \"Doing the Right Thing\": Privacy, access control, retention, auditability.",
+      "askOpsConnection": "Privacy, access control, retention, auditability and responsible use of business data.",
+      "status": "NotStarted",
+      "pagesRead": 0
+    }
+  ]
+}

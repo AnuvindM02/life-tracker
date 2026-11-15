@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>SelfTracker.Application</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SelfTracker.Domain\SelfTracker.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Handlers query through IAppDbContext (DbSet<T>); see DECISIONS.md D-004. -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" />
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+</Project>

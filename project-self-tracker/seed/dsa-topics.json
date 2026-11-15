@@ -1,0 +1,108 @@
+{
+  "list": "dsa-topics",
+  "source": "Project: Self v2.3 via build spec v1.1, spec 4.4",
+  "rows": [
+    {
+      "seedKey": "topic-arrays-hashing",
+      "name": "Arrays & Hashing",
+      "sortOrder": 10,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-two-pointers",
+      "name": "Two Pointers",
+      "sortOrder": 20,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-stack",
+      "name": "Stack",
+      "sortOrder": 30,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-binary-search",
+      "name": "Binary Search",
+      "sortOrder": 40,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-sliding-window",
+      "name": "Sliding Window",
+      "sortOrder": 50,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-linked-list",
+      "name": "Linked List",
+      "sortOrder": 60,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-trees",
+      "name": "Trees",
+      "sortOrder": 70,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-tries",
+      "name": "Tries",
+      "sortOrder": 80,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-heap-priority-queue",
+      "name": "Heap / Priority Queue",
+      "sortOrder": 90,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-backtracking",
+      "name": "Backtracking",
+      "sortOrder": 100,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-graphs",
+      "name": "Graphs",
+      "sortOrder": 110,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-1-d-dp",
+      "name": "1-D DP",
+      "sortOrder": 120,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-2-d-dp",
+      "name": "2-D DP",
+      "sortOrder": 130,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-greedy",
+      "name": "Greedy",
+      "sortOrder": 140,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-intervals",
+      "name": "Intervals",
+      "sortOrder": 150,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-math-geometry",
+      "name": "Math & Geometry",
+      "sortOrder": 160,
+      "isDeferred": false
+    },
+    {
+      "seedKey": "topic-bit-manipulation",
+      "name": "Bit Manipulation",
+      "sortOrder": 170,
+      "isDeferred": false
+    }
+  ]
+}

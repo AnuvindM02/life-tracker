@@ -1,0 +1,76 @@
+{
+  "list": "checkpoints",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix B",
+  "rows": [
+    {
+      "seedKey": "checkpoint-30",
+      "planDay": 30,
+      "dayTo": null,
+      "title": "Habit",
+      "question": "Were there 26+ active days including honestly logged MVDs? Does the gym-first evening work?"
+    },
+    {
+      "seedKey": "checkpoint-60",
+      "planDay": 60,
+      "dayTo": null,
+      "title": "Foundations",
+      "question": "Can you solve unfamiliar problems from covered patterns? Do DDIA notes match the edition you actually own?"
+    },
+    {
+      "seedKey": "checkpoint-90",
+      "planDay": 90,
+      "dayTo": null,
+      "title": "Phase 1 exit",
+      "question": "Which artifacts are complete? What must slip, and by how much?"
+    },
+    {
+      "seedKey": "checkpoint-180",
+      "planDay": 180,
+      "dayTo": null,
+      "title": "Market and scope",
+      "question": "Review 20 current postings. Do repeated requirements justify changing the track mix?"
+    },
+    {
+      "seedKey": "checkpoint-195",
+      "planDay": 195,
+      "dayTo": 215,
+      "title": "Canary interviews",
+      "question": "Send suitable warm-up applications and aim for diagnostic screens if opportunities arise. Record funnel evidence; no count is guaranteed. (Optional learning targets: 8-10 warm-up applications, 2-3 diagnostic screens.)"
+    },
+    {
+      "seedKey": "checkpoint-220",
+      "planDay": 220,
+      "dayTo": null,
+      "title": "Phase 2 exit",
+      "question": "Does the modular monolith run? Are tests and eval numbers recorded? Can you defend the architecture for 30 minutes?"
+    },
+    {
+      "seedKey": "checkpoint-270",
+      "planDay": 270,
+      "dayTo": null,
+      "title": "Readiness",
+      "question": "Target company list, referral message, resume review and gap list ready?"
+    },
+    {
+      "seedKey": "checkpoint-300",
+      "planDay": 300,
+      "dayTo": null,
+      "title": "Phase 3 exit",
+      "question": "Load report, reproducible deployment, case study and recorded mocks complete?"
+    },
+    {
+      "seedKey": "checkpoint-340",
+      "planDay": 340,
+      "dayTo": null,
+      "title": "Funnel check",
+      "question": "What do application-to-screen and screen-to-next-stage patterns show?"
+    },
+    {
+      "seedKey": "checkpoint-365",
+      "planDay": 365,
+      "dayTo": null,
+      "title": "Retrospective",
+      "question": "What did you ship, what did interviews teach you, and what is the Year 2 plan?"
+    }
+  ]
+}

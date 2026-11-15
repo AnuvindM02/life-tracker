@@ -1,0 +1,226 @@
+{
+  "list": "weekly-hour-targets",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix J (J.1 totals, J.2 categories)",
+  "rows": [
+    {
+      "seedKey": "hours-a-01",
+      "stage": "A",
+      "label": "Total (60-90 min most weekdays + one short weekend session)",
+      "categories": null,
+      "minHours": 4,
+      "maxHours": 8,
+      "isTotal": true,
+      "isStretch": false,
+      "sortOrder": 10
+    },
+    {
+      "seedKey": "hours-b-02",
+      "stage": "B",
+      "label": "Total (build toward 8-11 focused hours)",
+      "categories": null,
+      "minHours": 8,
+      "maxHours": 11,
+      "isTotal": true,
+      "isStretch": false,
+      "sortOrder": 20
+    },
+    {
+      "seedKey": "hours-full-03",
+      "stage": "Full",
+      "label": "Total, stable",
+      "categories": null,
+      "minHours": 12,
+      "maxHours": 15,
+      "isTotal": true,
+      "isStretch": false,
+      "sortOrder": 30
+    },
+    {
+      "seedKey": "hours-full-04",
+      "stage": "Full",
+      "label": "Total, ambitious",
+      "categories": null,
+      "minHours": 15,
+      "maxHours": 17,
+      "isTotal": true,
+      "isStretch": false,
+      "sortOrder": 40
+    },
+    {
+      "seedKey": "hours-full-05",
+      "stage": "Full",
+      "label": "Stretch only",
+      "categories": null,
+      "minHours": 19,
+      "maxHours": 20,
+      "isTotal": true,
+      "isStretch": true,
+      "sortOrder": 50
+    },
+    {
+      "seedKey": "hours-phase1-06",
+      "stage": "Phase1",
+      "label": "DSA",
+      "categories": "Dsa",
+      "minHours": 4,
+      "maxHours": 6,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 60
+    },
+    {
+      "seedKey": "hours-phase1-07",
+      "stage": "Phase1",
+      "label": "DDIA / design",
+      "categories": "DdiaDesign",
+      "minHours": 2,
+      "maxHours": 3,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 70
+    },
+    {
+      "seedKey": "hours-phase1-08",
+      "stage": "Phase1",
+      "label": "Main track",
+      "categories": "MainTrack",
+      "minHours": 3,
+      "maxHours": 5,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 80
+    },
+    {
+      "seedKey": "hours-phase1-09",
+      "stage": "Phase1",
+      "label": "Review",
+      "categories": "Review",
+      "minHours": 1,
+      "maxHours": 1,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 90
+    },
+    {
+      "seedKey": "hours-phase2-10",
+      "stage": "Phase2",
+      "label": "DSA",
+      "categories": "Dsa",
+      "minHours": 4,
+      "maxHours": 5,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 100
+    },
+    {
+      "seedKey": "hours-phase2-11",
+      "stage": "Phase2",
+      "label": "Design",
+      "categories": "DdiaDesign",
+      "minHours": 1,
+      "maxHours": 2,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 110
+    },
+    {
+      "seedKey": "hours-phase2-12",
+      "stage": "Phase2",
+      "label": "Flagship (main track)",
+      "categories": "MainTrack",
+      "minHours": 5,
+      "maxHours": 8,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 120
+    },
+    {
+      "seedKey": "hours-phase2-13",
+      "stage": "Phase2",
+      "label": "Review / outreach",
+      "categories": "Review,Applications",
+      "minHours": 1,
+      "maxHours": 1,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 130
+    },
+    {
+      "seedKey": "hours-phase3-14",
+      "stage": "Phase3",
+      "label": "DSA",
+      "categories": "Dsa",
+      "minHours": 4,
+      "maxHours": 6,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 140
+    },
+    {
+      "seedKey": "hours-phase3-15",
+      "stage": "Phase3",
+      "label": "Mocks",
+      "categories": "Mocks",
+      "minHours": 2,
+      "maxHours": 2,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 150
+    },
+    {
+      "seedKey": "hours-phase3-16",
+      "stage": "Phase3",
+      "label": "Load / deploy / evals (main track)",
+      "categories": "MainTrack",
+      "minHours": 4,
+      "maxHours": 6,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 160
+    },
+    {
+      "seedKey": "hours-phase3-17",
+      "stage": "Phase3",
+      "label": "Review",
+      "categories": "Review",
+      "minHours": 1,
+      "maxHours": 1,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 170
+    },
+    {
+      "seedKey": "hours-phase4-18",
+      "stage": "Phase4",
+      "label": "DSA",
+      "categories": "Dsa",
+      "minHours": 5,
+      "maxHours": 7,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 180
+    },
+    {
+      "seedKey": "hours-phase4-19",
+      "stage": "Phase4",
+      "label": "System design",
+      "categories": "DdiaDesign",
+      "minHours": 2,
+      "maxHours": 3,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 190
+    },
+    {
+      "seedKey": "hours-phase4-20",
+      "stage": "Phase4",
+      "label": "Applications / mocks",
+      "categories": "Mocks,Applications",
+      "minHours": 3,
+      "maxHours": 5,
+      "isTotal": false,
+      "isStretch": false,
+      "sortOrder": 200
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "list": "exit-criteria",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix G",
+  "rows": [
+    {
+      "seedKey": "exit-p1-01",
+      "phaseNumber": 1,
+      "group": null,
+      "text": "65-80 meaningful DSA attempts/reviews.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 0
+    },
+    {
+      "seedKey": "exit-p1-02",
+      "phaseNumber": 1,
+      "group": null,
+      "text": "Edition-correct DDIA notes for chapters covered.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 1
+    },
+    {
+      "seedKey": "exit-p1-03",
+      "phaseNumber": 1,
+      "group": null,
+      "text": "Small functional React app (list/detail + create/edit form calling your API).",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 2
+    },
+    {
+      "seedKey": "exit-p1-04",
+      "phaseNumber": 1,
+      "group": null,
+      "text": "Minimal MEAI/MAF exercise (hello-agent, one safe tool call, minimal RAG baseline).",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 3
+    },
+    {
+      "seedKey": "exit-p1-05",
+      "phaseNumber": 1,
+      "group": null,
+      "text": "Flagship design document (3-5 pages) and five ADRs.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 4
+    },
+    {
+      "seedKey": "exit-p2-01",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "Reproducible backend",
+      "evidenceHint": "One modular-monolith API + database + one worker runs from documented steps; tests pass; key domain flow works.",
+      "done": false,
+      "sortOrder": 0
+    },
+    {
+      "seedKey": "exit-p2-02",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "Reliability",
+      "evidenceHint": "Health/log/trace evidence, clear timeout and retry policy, at least one injected failure and observed outcome.",
+      "done": false,
+      "sortOrder": 1
+    },
+    {
+      "seedKey": "exit-p2-03",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "Ask-Ops",
+      "evidenceHint": "Small document corpus, retrieval with citations, one guarded tool and graceful model/tool failure.",
+      "done": false,
+      "sortOrder": 2
+    },
+    {
+      "seedKey": "exit-p2-04",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "Evaluation",
+      "evidenceHint": "Repeatable golden set and baseline; known limitations and human spot-check findings written down.",
+      "done": false,
+      "sortOrder": 3
+    },
+    {
+      "seedKey": "exit-p2-05",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "Demo / explanation",
+      "evidenceHint": "Five-minute demo, architecture diagram, honest README and 30-minute spoken walkthrough.",
+      "done": false,
+      "sortOrder": 4
+    },
+    {
+      "seedKey": "exit-p2-06",
+      "phaseNumber": 2,
+      "group": null,
+      "text": "DSA",
+      "evidenceHint": "About 120-135 selected attempts/reviews; cold re-solves and pattern coverage matter more than raw count.",
+      "done": false,
+      "sortOrder": 5
+    },
+    {
+      "seedKey": "exit-p3-01",
+      "phaseNumber": 3,
+      "group": null,
+      "text": "Load report with before/after numbers and test conditions.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 0
+    },
+    {
+      "seedKey": "exit-p3-02",
+      "phaseNumber": 3,
+      "group": null,
+      "text": "Reproducible deployment and CI quality/eval gate.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 1
+    },
+    {
+      "seedKey": "exit-p3-03",
+      "phaseNumber": 3,
+      "group": null,
+      "text": "Architecture case study and updated README/resume bullets.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 2
+    },
+    {
+      "seedKey": "exit-p3-04",
+      "phaseNumber": 3,
+      "group": null,
+      "text": "Recorded mock reviews (6-8 if schedule allows).",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 3
+    },
+    {
+      "seedKey": "exit-p3-d270-01",
+      "phaseNumber": 3,
+      "group": "Day 270 readiness",
+      "text": "Resume reviewed against real roles; each technical claim backed by code, a test, a measurement or a clear explanation.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 100
+    },
+    {
+      "seedKey": "exit-p3-d270-02",
+      "phaseNumber": 3,
+      "group": "Day 270 readiness",
+      "text": "Target list includes role fit, location, experience requirement, fixed/variable compensation and application link/date.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 101
+    },
+    {
+      "seedKey": "exit-p3-d270-03",
+      "phaseNumber": 3,
+      "group": "Day 270 readiness",
+      "text": "At least two full project walkthroughs and several design/DSA mock reviews recorded; weak points converted into a weekly practice list.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 102
+    },
+    {
+      "seedKey": "exit-p4-01",
+      "phaseNumber": 4,
+      "group": null,
+      "text": "Resume, referrals, mock feedback, funnel metrics and negotiation readiness.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 0
+    },
+    {
+      "seedKey": "exit-p4-02",
+      "phaseNumber": 4,
+      "group": null,
+      "text": "Day 365 retrospective answered in writing.",
+      "evidenceHint": null,
+      "done": false,
+      "sortOrder": 1
+    }
+  ]
+}

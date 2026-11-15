@@ -1,0 +1,27 @@
+# Run everything in one go:   docker compose up -d --build   then open http://localhost:5080
+# Stop:                       docker compose stop
+# Dev mode (hot reload) still uses only the database:  docker compose up -d db
+name: project-self-tracker
+
+services:
+  # The whole app (API + built web UI) in one container on http://localhost:5080.
+  # Stop dev-mode `dotnet run` first: both use port 5080.
+  app:
+    build: .
+    image: selftracker-app:local
+    container_name: selftracker-app
+    environment:
+      # host.docker.internal resolves to your local host machine from inside the container
+      DB_HOST: "host.docker.internal"
+      DB_PORT: "1433" # Default SQL port; adjust if your local instance uses a different one
+      DB_NAME: ${DB_NAME:-SelfTracker}
+      MSSQL_SA_PASSWORD: ${MSSQL_SA_PASSWORD:?Set MSSQL_SA_PASSWORD in .env}
+      TZ: Asia/Kolkata
+    ports:
+      # Loopback only, like the database.
+      - "127.0.0.1:${API_PORT:-5080}:5080"
+    volumes:
+      # Same folders as dev mode, so files and backups are shared: data/files, data/backups, logs.
+      - ./data:/data
+      - ./logs:/logs
+    restart: unless-stopped

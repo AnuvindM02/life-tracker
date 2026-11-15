@@ -1,0 +1,656 @@
+{
+  "list": "dsa-problems",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix C",
+  "rows": [
+    {
+      "seedKey": "dsa-w01-contains-duplicate",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Contains Duplicate",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 100,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-valid-anagram",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Valid Anagram",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 101,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-two-sum",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Two Sum",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 102,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-group-anagrams",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Group Anagrams",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 103,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-top-k-frequent",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Top K Frequent",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 104,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-product-except-self",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Product Except Self",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 105,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-valid-sudoku",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Valid Sudoku",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 106,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w01-longest-consecutive",
+      "topicSeedKey": "topic-arrays-hashing",
+      "title": "Longest Consecutive",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 1,
+      "sortOrder": 107,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w02-valid-palindrome",
+      "topicSeedKey": "topic-two-pointers",
+      "title": "Valid Palindrome",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 2,
+      "sortOrder": 200,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w02-two-sum-ii",
+      "topicSeedKey": "topic-two-pointers",
+      "title": "Two Sum II",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 2,
+      "sortOrder": 201,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w02-3sum",
+      "topicSeedKey": "topic-two-pointers",
+      "title": "3Sum",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 2,
+      "sortOrder": 202,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w02-container-with-most-water",
+      "topicSeedKey": "topic-two-pointers",
+      "title": "Container With Most Water",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 2,
+      "sortOrder": 203,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w02-trapping-rain-water",
+      "topicSeedKey": "topic-two-pointers",
+      "title": "Trapping Rain Water",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 2,
+      "sortOrder": 204,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-min-stack",
+      "topicSeedKey": "topic-stack",
+      "title": "Min Stack",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 300,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-evaluate-rpn",
+      "topicSeedKey": "topic-stack",
+      "title": "Evaluate RPN",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 301,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-generate-parentheses",
+      "topicSeedKey": "topic-stack",
+      "title": "Generate Parentheses",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 302,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-daily-temperatures",
+      "topicSeedKey": "topic-stack",
+      "title": "Daily Temperatures",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 303,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-car-fleet",
+      "topicSeedKey": "topic-stack",
+      "title": "Car Fleet",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 304,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w03-largest-rectangle",
+      "topicSeedKey": "topic-stack",
+      "title": "Largest Rectangle",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 3,
+      "sortOrder": 305,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-binary-search",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Binary Search",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 400,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-search-2d-matrix",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Search 2D Matrix",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 401,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-koko",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Koko",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 402,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-rotated-array",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Rotated Array",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 403,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-time-based-kv",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Time Based KV",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 404,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w04-median-of-two-sorted-arrays",
+      "topicSeedKey": "topic-binary-search",
+      "title": "Median of Two Sorted Arrays",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 4,
+      "sortOrder": 405,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w05-best-time-to-buy-sell-stock",
+      "topicSeedKey": "topic-sliding-window",
+      "title": "Best Time to Buy/Sell Stock",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 5,
+      "sortOrder": 500,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w05-longest-substring",
+      "topicSeedKey": "topic-sliding-window",
+      "title": "Longest Substring",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 5,
+      "sortOrder": 501,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w05-longest-repeating-character-replacement",
+      "topicSeedKey": "topic-sliding-window",
+      "title": "Longest Repeating Character Replacement",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 5,
+      "sortOrder": 502,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w05-permutation-in-string",
+      "topicSeedKey": "topic-sliding-window",
+      "title": "Permutation in String",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 5,
+      "sortOrder": 503,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w05-min-window",
+      "topicSeedKey": "topic-sliding-window",
+      "title": "Min Window",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 5,
+      "sortOrder": 504,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-reverse",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Reverse",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 600,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-merge-two-sorted",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Merge Two Sorted",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 601,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-reorder",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Reorder",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 602,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-remove-nth",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Remove Nth",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 603,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-linked-list-cycle",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Linked List Cycle",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 604,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w06-add-two-numbers",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Add Two Numbers",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 6,
+      "sortOrder": 605,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w07-copy-list-with-random-pointer",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Copy List with Random Pointer",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 7,
+      "sortOrder": 700,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w07-find-duplicate",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Find Duplicate",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 7,
+      "sortOrder": 701,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w07-lru-cache",
+      "topicSeedKey": "topic-linked-list",
+      "title": "LRU Cache",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 7,
+      "sortOrder": 702,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w07-merge-k-sorted",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Merge K Sorted",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 7,
+      "sortOrder": 703,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w07-reverse-nodes-in-k-group",
+      "topicSeedKey": "topic-linked-list",
+      "title": "Reverse Nodes in K-Group",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 7,
+      "sortOrder": 704,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-invert",
+      "topicSeedKey": "topic-trees",
+      "title": "Invert",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 800,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-max-depth",
+      "topicSeedKey": "topic-trees",
+      "title": "Max Depth",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 801,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-diameter",
+      "topicSeedKey": "topic-trees",
+      "title": "Diameter",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 802,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-balanced",
+      "topicSeedKey": "topic-trees",
+      "title": "Balanced",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 803,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-same-tree",
+      "topicSeedKey": "topic-trees",
+      "title": "Same Tree",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 804,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-subtree",
+      "topicSeedKey": "topic-trees",
+      "title": "Subtree",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 805,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w08-lca-of-bst",
+      "topicSeedKey": "topic-trees",
+      "title": "LCA of BST",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 8,
+      "sortOrder": 806,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-level-order",
+      "topicSeedKey": "topic-trees",
+      "title": "Level Order",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 900,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-right-side-view",
+      "topicSeedKey": "topic-trees",
+      "title": "Right Side View",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 901,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-count-good-nodes",
+      "topicSeedKey": "topic-trees",
+      "title": "Count Good Nodes",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 902,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-validate-bst",
+      "topicSeedKey": "topic-trees",
+      "title": "Validate BST",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 903,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-kth-smallest",
+      "topicSeedKey": "topic-trees",
+      "title": "Kth Smallest",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 904,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w09-serialize-deserialize",
+      "topicSeedKey": "topic-trees",
+      "title": "Serialize/Deserialize",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 9,
+      "sortOrder": 905,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w10-kth-largest",
+      "topicSeedKey": "topic-heap-priority-queue",
+      "title": "Kth Largest",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 10,
+      "sortOrder": 1000,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w10-top-k-frequent-words",
+      "topicSeedKey": "topic-heap-priority-queue",
+      "title": "Top K Frequent Words",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 10,
+      "sortOrder": 1001,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w10-task-scheduler",
+      "topicSeedKey": "topic-heap-priority-queue",
+      "title": "Task Scheduler",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 10,
+      "sortOrder": 1002,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w10-median-from-stream",
+      "topicSeedKey": "topic-heap-priority-queue",
+      "title": "Median from Stream",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 10,
+      "sortOrder": 1003,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w11-subsets",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Subsets",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 11,
+      "sortOrder": 1100,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w11-combination-sum",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Combination Sum",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 11,
+      "sortOrder": 1101,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w11-permutations",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Permutations",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 11,
+      "sortOrder": 1102,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w12-combination-sum-ii",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Combination Sum II",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 12,
+      "sortOrder": 1200,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w12-word-search",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Word Search",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 12,
+      "sortOrder": 1201,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w12-palindrome-partitioning",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Palindrome Partitioning",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 12,
+      "sortOrder": 1202,
+      "status": "NotStarted"
+    },
+    {
+      "seedKey": "dsa-w12-letter-combinations",
+      "topicSeedKey": "topic-backtracking",
+      "title": "Letter Combinations",
+      "url": null,
+      "difficulty": null,
+      "planWeek": 12,
+      "sortOrder": 1203,
+      "status": "NotStarted"
+    }
+  ]
+}

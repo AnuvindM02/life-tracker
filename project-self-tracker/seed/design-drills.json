@@ -1,0 +1,246 @@
+{
+  "list": "design-drills",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix H",
+  "rows": [
+    {
+      "seedKey": "drill-01",
+      "number": 1,
+      "prompt": "URL shortener",
+      "group": "1-4",
+      "plannedWeek": 12,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-02",
+      "number": 2,
+      "prompt": "Rate limiter",
+      "group": "1-4",
+      "plannedWeek": 13,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-03",
+      "number": 3,
+      "prompt": "Key-value store",
+      "group": "1-4",
+      "plannedWeek": 14,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-04",
+      "number": 4,
+      "prompt": "Distributed cache",
+      "group": "1-4",
+      "plannedWeek": 15,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-05",
+      "number": 5,
+      "prompt": "Notification service",
+      "group": "5-8",
+      "plannedWeek": 16,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-06",
+      "number": 6,
+      "prompt": "Chat/messaging",
+      "group": "5-8",
+      "plannedWeek": 17,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-07",
+      "number": 7,
+      "prompt": "News feed",
+      "group": "5-8",
+      "plannedWeek": 18,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-08",
+      "number": 8,
+      "prompt": "Search autocomplete",
+      "group": "5-8",
+      "plannedWeek": 19,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-09",
+      "number": 9,
+      "prompt": "File storage",
+      "group": "9-12",
+      "plannedWeek": 20,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-10",
+      "number": 10,
+      "prompt": "Video streaming basics",
+      "group": "9-12",
+      "plannedWeek": 21,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-11",
+      "number": 11,
+      "prompt": "Location/ride matching",
+      "group": "9-12",
+      "plannedWeek": 22,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-12",
+      "number": 12,
+      "prompt": "Payments and ledger",
+      "group": "9-12",
+      "plannedWeek": 23,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-13",
+      "number": 13,
+      "prompt": "Job scheduler",
+      "group": "13-16",
+      "plannedWeek": 24,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-14",
+      "number": 14,
+      "prompt": "Logs/metrics aggregation",
+      "group": "13-16",
+      "plannedWeek": 25,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-15",
+      "number": 15,
+      "prompt": "Web crawler",
+      "group": "13-16",
+      "plannedWeek": 26,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-16",
+      "number": 16,
+      "prompt": "API gateway",
+      "group": "13-16",
+      "plannedWeek": 27,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-17",
+      "number": 17,
+      "prompt": "Ticket booking/seat concurrency",
+      "group": "17-20",
+      "plannedWeek": 28,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-18",
+      "number": 18,
+      "prompt": "E-commerce order pipeline",
+      "group": "17-20",
+      "plannedWeek": 29,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-19",
+      "number": 19,
+      "prompt": "RAG Q&A",
+      "group": "17-20",
+      "plannedWeek": 30,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-20",
+      "number": 20,
+      "prompt": "LLM gateway with cost control",
+      "group": "17-20",
+      "plannedWeek": 31,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-21",
+      "number": 21,
+      "prompt": "Leaderboard",
+      "group": "21-24",
+      "plannedWeek": 32,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-22",
+      "number": 22,
+      "prompt": "Unique ID generator",
+      "group": "21-24",
+      "plannedWeek": 33,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-23",
+      "number": 23,
+      "prompt": "Recommendation feed",
+      "group": "21-24",
+      "plannedWeek": 34,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    },
+    {
+      "seedKey": "drill-24",
+      "number": 24,
+      "prompt": "Distributed lock/leader election",
+      "group": "21-24",
+      "plannedWeek": 35,
+      "status": "NotStarted",
+      "spokenMock": false,
+      "minutes": 0
+    }
+  ]
+}

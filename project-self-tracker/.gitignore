@@ -1,0 +1,21 @@
+# build
+bin/
+obj/
+*.user
+.vs/
+.vscode/*
+!.vscode/extensions.json
+TestResults/
+coverage*/
+
+# secrets and local data (never commit)
+.env
+data/
+logs/
+
+# web
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
+src/SelfTracker.Api/wwwroot/

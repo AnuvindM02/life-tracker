@@ -1,0 +1,126 @@
+{
+  "list": "gym-plan",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix I",
+  "rows": [
+    {
+      "seedKey": "gym-a-mon",
+      "schedulePhase": "A",
+      "dayOfWeek": "Monday",
+      "sessionName": "Gym session",
+      "isOptional": false,
+      "notes": "Phase A: 3 sessions/week as per the separately reviewed training plan (suggested days; edit freely)."
+    },
+    {
+      "seedKey": "gym-a-tue",
+      "schedulePhase": "A",
+      "dayOfWeek": "Tuesday",
+      "sessionName": "Short walk",
+      "isOptional": true,
+      "notes": "Tue/Thu can be a short walk."
+    },
+    {
+      "seedKey": "gym-a-wed",
+      "schedulePhase": "A",
+      "dayOfWeek": "Wednesday",
+      "sessionName": "Gym session",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-a-thu",
+      "schedulePhase": "A",
+      "dayOfWeek": "Thursday",
+      "sessionName": "Short walk",
+      "isOptional": true,
+      "notes": "Tue/Thu can be a short walk."
+    },
+    {
+      "seedKey": "gym-a-fri",
+      "schedulePhase": "A",
+      "dayOfWeek": "Friday",
+      "sessionName": "Gym session",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-b-mon",
+      "schedulePhase": "B",
+      "dayOfWeek": "Monday",
+      "sessionName": "Upper push",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-b-tue",
+      "schedulePhase": "B",
+      "dayOfWeek": "Tuesday",
+      "sessionName": "Lower A",
+      "isOptional": false,
+      "notes": "Clinician/physio clearance controls lower-body activity."
+    },
+    {
+      "seedKey": "gym-b-thu",
+      "schedulePhase": "B",
+      "dayOfWeek": "Thursday",
+      "sessionName": "Upper pull",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-b-fri",
+      "schedulePhase": "B",
+      "dayOfWeek": "Friday",
+      "sessionName": "Lower B",
+      "isOptional": false,
+      "notes": "Only if cleared; prepare for travel if due."
+    },
+    {
+      "seedKey": "gym-c-mon",
+      "schedulePhase": "C",
+      "dayOfWeek": "Monday",
+      "sessionName": "Upper push",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-c-tue",
+      "schedulePhase": "C",
+      "dayOfWeek": "Tuesday",
+      "sessionName": "Lower A",
+      "isOptional": false,
+      "notes": "Clinician/physio clearance controls lower-body activity."
+    },
+    {
+      "seedKey": "gym-c-thu",
+      "schedulePhase": "C",
+      "dayOfWeek": "Thursday",
+      "sessionName": "Upper pull",
+      "isOptional": false,
+      "notes": null
+    },
+    {
+      "seedKey": "gym-c-fri",
+      "schedulePhase": "C",
+      "dayOfWeek": "Friday",
+      "sessionName": "Lower B",
+      "isOptional": false,
+      "notes": "Only if cleared; prepare for travel if due."
+    },
+    {
+      "seedKey": "gym-c-wed",
+      "schedulePhase": "C",
+      "dayOfWeek": "Wednesday",
+      "sessionName": "Zone 2 (optional)",
+      "isOptional": true,
+      "notes": "Added cardio follows clinician/physio guidance."
+    },
+    {
+      "seedKey": "gym-c-sat",
+      "schedulePhase": "C",
+      "dayOfWeek": "Saturday",
+      "sessionName": "Zone 2 / core (optional)",
+      "isOptional": true,
+      "notes": "Otherwise protect recovery."
+    }
+  ]
+}

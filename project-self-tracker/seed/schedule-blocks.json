@@ -1,0 +1,281 @@
+{
+  "list": "schedule-blocks",
+  "source": "Project: Self v2.3 via build spec v1.1, Appendix I",
+  "rows": [
+    {
+      "seedKey": "block-a-01",
+      "schedulePhase": "A",
+      "startTime": "07:30:00",
+      "endTime": null,
+      "timeLabel": null,
+      "title": "Wake + morning prep",
+      "rule": "500 ml water, daylight, breakfast and lunch prep; no morning study requirement yet.",
+      "isStretch": false,
+      "sortOrder": 10
+    },
+    {
+      "seedKey": "block-a-02",
+      "schedulePhase": "A",
+      "startTime": "09:00:00",
+      "endTime": "17:30:00",
+      "timeLabel": null,
+      "title": "Office",
+      "rule": "Lunch around 13:30. Stand/walk periodically; do not use office equipment for personal project work.",
+      "isStretch": false,
+      "sortOrder": 20
+    },
+    {
+      "seedKey": "block-a-03",
+      "schedulePhase": "A",
+      "startTime": "17:45:00",
+      "endTime": "18:15:00",
+      "timeLabel": null,
+      "title": "Return + snack / change",
+      "rule": "Change first; small pre-workout snack and water.",
+      "isStretch": false,
+      "sortOrder": 30
+    },
+    {
+      "seedKey": "block-a-04",
+      "schedulePhase": "A",
+      "startTime": "18:15:00",
+      "endTime": "19:05:00",
+      "timeLabel": null,
+      "title": "Gym (3 sessions/week)",
+      "rule": "As per the separately reviewed training plan. Tue/Thu can be a short walk.",
+      "isStretch": false,
+      "sortOrder": 40
+    },
+    {
+      "seedKey": "block-a-05",
+      "schedulePhase": "A",
+      "startTime": "19:05:00",
+      "endTime": "20:00:00",
+      "timeLabel": null,
+      "title": "Return, shower, dinner",
+      "rule": "Eat and reset. Do not open a long scrolling session.",
+      "isStretch": false,
+      "sortOrder": 50
+    },
+    {
+      "seedKey": "block-a-06",
+      "schedulePhase": "A",
+      "startTime": "20:15:00",
+      "endTime": "21:15:00",
+      "timeLabel": null,
+      "title": "DSA",
+      "rule": "One problem/review with the four-pass method; log one mistake.",
+      "isStretch": false,
+      "sortOrder": 60
+    },
+    {
+      "seedKey": "block-a-07",
+      "schedulePhase": "A",
+      "startTime": "21:15:00",
+      "endTime": "21:40:00",
+      "timeLabel": null,
+      "title": "DDIA / design",
+      "rule": "About 7 pages plus a three-line note.",
+      "isStretch": false,
+      "sortOrder": 70
+    },
+    {
+      "seedKey": "block-a-08",
+      "schedulePhase": "A",
+      "startTime": "21:40:00",
+      "endTime": "21:55:00",
+      "timeLabel": null,
+      "title": "Build",
+      "rule": "15 minutes: one commit, one doc line or one failing test fixed.",
+      "isStretch": false,
+      "sortOrder": 80
+    },
+    {
+      "seedKey": "block-a-09",
+      "schedulePhase": "A",
+      "startTime": "21:55:00",
+      "endTime": "22:10:00",
+      "timeLabel": null,
+      "title": "Close day",
+      "rule": "Tracker, tomorrow target, breakfast/lunch prep. Screens off; lights out by 23:15 target.",
+      "isStretch": false,
+      "sortOrder": 90
+    },
+    {
+      "seedKey": "block-b-01",
+      "schedulePhase": "B",
+      "startTime": "07:00:00",
+      "endTime": null,
+      "timeLabel": "07:15 (W4); 07:00 (W5-8)",
+      "title": "Morning prep + DSA attempt",
+      "rule": "10 min mobility only if already cleared; 30 min unaided DSA attempt. Rewrite/log moves to evening.",
+      "isStretch": false,
+      "sortOrder": 10
+    },
+    {
+      "seedKey": "block-b-02",
+      "schedulePhase": "B",
+      "startTime": "18:15:00",
+      "endTime": "19:05:00",
+      "timeLabel": null,
+      "title": "Gym (4-day split)",
+      "rule": "Use the split in the Daily Operating Schedule; clinician/physio clearance controls lower-body activity.",
+      "isStretch": false,
+      "sortOrder": 20
+    },
+    {
+      "seedKey": "block-b-03",
+      "schedulePhase": "B",
+      "startTime": "20:15:00",
+      "endTime": "20:30:00",
+      "timeLabel": null,
+      "title": "DSA rewrite + log",
+      "rule": "Close solution, re-code in C#, record pattern and bug.",
+      "isStretch": false,
+      "sortOrder": 30
+    },
+    {
+      "seedKey": "block-b-04",
+      "schedulePhase": "B",
+      "startTime": "20:30:00",
+      "endTime": "21:10:00",
+      "timeLabel": null,
+      "title": "DDIA / design",
+      "rule": "7-10 pages or a focused design note.",
+      "isStretch": false,
+      "sortOrder": 40
+    },
+    {
+      "seedKey": "block-b-05",
+      "schedulePhase": "B",
+      "startTime": "21:15:00",
+      "endTime": "22:15:00",
+      "timeLabel": null,
+      "title": "Build track",
+      "rule": "One small committed output. Lights out target around 23:00.",
+      "isStretch": false,
+      "sortOrder": 50
+    },
+    {
+      "seedKey": "block-c-01",
+      "schedulePhase": "C",
+      "startTime": "06:30:00",
+      "endTime": null,
+      "timeLabel": null,
+      "title": "Wake",
+      "rule": "500 ml water and daylight. Keep bedtime early enough for at least 7 hours of sleep.",
+      "isStretch": false,
+      "sortOrder": 10
+    },
+    {
+      "seedKey": "block-c-02",
+      "schedulePhase": "C",
+      "startTime": "06:50:00",
+      "endTime": "07:50:00",
+      "timeLabel": null,
+      "title": "DSA",
+      "rule": "Protected C# practice: attempt, unstick, rewrite, log. Default DSA slot from Week 9.",
+      "isStretch": false,
+      "sortOrder": 20
+    },
+    {
+      "seedKey": "block-c-03",
+      "schedulePhase": "C",
+      "startTime": "09:00:00",
+      "endTime": "17:30:00",
+      "timeLabel": null,
+      "title": "Office",
+      "rule": "Normal workday; hourly movement breaks where practical.",
+      "isStretch": false,
+      "sortOrder": 30
+    },
+    {
+      "seedKey": "block-c-04",
+      "schedulePhase": "C",
+      "startTime": "18:15:00",
+      "endTime": "19:05:00",
+      "timeLabel": null,
+      "title": "Gym / training",
+      "rule": "Fixed training anchor. Clinical clearance controls exercise choice.",
+      "isStretch": false,
+      "sortOrder": 40
+    },
+    {
+      "seedKey": "block-c-05",
+      "schedulePhase": "C",
+      "startTime": "19:30:00",
+      "endTime": "20:10:00",
+      "timeLabel": null,
+      "title": "Dinner / recovery",
+      "rule": "Shower, dinner and recovery. Avoid pushing study into sleep time.",
+      "isStretch": false,
+      "sortOrder": 50
+    },
+    {
+      "seedKey": "block-c-06",
+      "schedulePhase": "C",
+      "startTime": "20:15:00",
+      "endTime": "20:35:00",
+      "timeLabel": null,
+      "title": "DDIA / system design",
+      "rule": "Stable: about 20 min + a short note. After the book, a design drill or ADR defence.",
+      "isStretch": false,
+      "sortOrder": 60
+    },
+    {
+      "seedKey": "block-c-07",
+      "schedulePhase": "C",
+      "startTime": "20:40:00",
+      "endTime": "21:25:00",
+      "timeLabel": null,
+      "title": "Main track",
+      "rule": "Phase 1: React / MEAI / MAF; Phase 2: flagship; Phase 3: scale/eval; Phase 4: interviews. Stable: 45 min on 3 evenings.",
+      "isStretch": false,
+      "sortOrder": 70
+    },
+    {
+      "seedKey": "block-c-08",
+      "schedulePhase": "C",
+      "startTime": "21:25:00",
+      "endTime": "22:10:00",
+      "timeLabel": null,
+      "title": "Close / shutdown",
+      "rule": "Tracker, tomorrow targets, prep and sleep routine.",
+      "isStretch": false,
+      "sortOrder": 80
+    },
+    {
+      "seedKey": "block-c-09",
+      "schedulePhase": "C",
+      "startTime": "20:15:00",
+      "endTime": "20:55:00",
+      "timeLabel": null,
+      "title": "DDIA / system design (stretch)",
+      "rule": "Stretch: about 40 min / 7-10 pages. Only when rested.",
+      "isStretch": true,
+      "sortOrder": 90
+    },
+    {
+      "seedKey": "block-c-10",
+      "schedulePhase": "C",
+      "startTime": "21:00:00",
+      "endTime": "22:25:00",
+      "timeLabel": null,
+      "title": "Main track (stretch)",
+      "rule": "Stretch block; the stable version is the default.",
+      "isStretch": true,
+      "sortOrder": 100
+    },
+    {
+      "seedKey": "block-c-11",
+      "schedulePhase": "C",
+      "startTime": "22:25:00",
+      "endTime": "22:40:00",
+      "timeLabel": null,
+      "title": "Close / shutdown (stretch)",
+      "rule": "Stretch only when rested.",
+      "isStretch": true,
+      "sortOrder": 110
+    }
+  ]
+}
